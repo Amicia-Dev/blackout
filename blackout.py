@@ -1,8 +1,3 @@
-"""Blackout: black out every monitor not showing fullscreen content.
-
-Run:   python blackout.py   (or double-click blackout.bat)
-Release: press Esc, or run the program again.
-"""
 from __future__ import annotations
 
 import ctypes
