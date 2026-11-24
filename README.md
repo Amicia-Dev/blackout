@@ -2,6 +2,8 @@
 A tool that puts up a black screen on all monitors that doesn't currently have fullscreen/maximized content on it.\
 Basically made for when you're watching a movie on one display and don't want the other displays to be distracting.
 
+Toggle the black screens on by running the script and toggle them off by either running the script again or pressing ESC at any time.
+
 I personally run it with pythonw from a vbs script to make it a simple click to toggle it on without any windows opening up.
 
 ```
